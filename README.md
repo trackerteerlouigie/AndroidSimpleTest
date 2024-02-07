@@ -1,5 +1,5 @@
 ﻿**Trackerteer Web Developer Corp.**
-**Android App Developer Onboarding**
+ <br />**Android App Developer Onboarding**
 
 **Task Overview:** You are tasked with completing several tasks to enhance the functionality of an
 Android project. Each task carries a certain number of points, and your goal is to accumulate a
