@@ -31,8 +31,8 @@ total of ***at least 80 points*** by completing these tasks successfully.
    <br />c. **Update** the grid to reflect the new order of items after the user drops the item.
    
 11. **Propose and Implement a New Feature:** (Bonus points)
-   <br />a. Bonus points will be awarded based on the **creativity**, **functionality**, and *
-   *implementation** of the proposed feature.
+   <br />a. Bonus points will be awarded based on the **creativity**, **functionality**, and
+**implementation** of the proposed feature.
 
 *Ensure that your code is well-commented and follows best practices. Test your implementation
 thoroughly to ensure proper functionality. Good luck! Happy coding.*
