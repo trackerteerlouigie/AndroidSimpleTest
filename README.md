@@ -41,4 +41,3 @@ Prepared by:
 <br />L. Narvaez
 <br />Android Developer
 <br />Team Leader
-<br />2024
