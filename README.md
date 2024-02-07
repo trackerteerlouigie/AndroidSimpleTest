@@ -4,7 +4,7 @@
 Android project. Each task carries a certain number of points, and your goal is to accumulate a
 total of ***at least 80 points*** by completing these tasks successfully.
 
-1. **Convert List to Grid Layout:** (11 points)
+1. **Convert List to Grid Layout:** (11 points)<br />
    a. Modify the layout to display items in a **grid** format with **four** columns.
    
 3. **Implement Item Click Functionality:** (17 points)
