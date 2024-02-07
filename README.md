@@ -37,7 +37,7 @@ total of ***at least 80 points*** by completing these tasks successfully.
 thoroughly to ensure proper functionality. Good luck! Happy coding.*
 
 Prepared by:
-L. Narvaez
-Android Developer
-Team Leader
-2024
+<br />L. Narvaez
+<br />Android Developer
+<br />Team Leader
+<br />2024
