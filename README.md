@@ -5,10 +5,10 @@
 Android project. Each task carries a certain number of points, and your goal is to accumulate a
 total of ***at least 80 points*** by completing these tasks successfully.
 
-1. **Convert List to Grid Layout:** (11 points)
+1. **Convert List to Grid Layout:** (10 points)
    <br />a. Modify the layout to display items in a **grid** format with **four** columns.
    
-2. **Implement Item Click Functionality:** (17 points)
+2. **Implement Item Click Functionality:** (20 points)
    <br />a. Ensure that each item in the grid layout is **clickable**.
    <br />b. Upon clicking an item, display a **toast** message containing the text of the clicked item.
    
@@ -17,7 +17,7 @@ total of ***at least 80 points*** by completing these tasks successfully.
    <br />b. Allow users to type and **filter** items based on their names.
    <br />c. Dynamically **update** the grid to display only the items that match the search query.
    
-4. **Add Long-Press Deletion Feature:** (26 points)
+4. **Add Long-Press Deletion Feature:** (30 points)
    <br />a. Enable users to delete items from the grid by **long-pressing** on them.
    <br />b. Upon long-pressing an item, show a confirmation **dialog** asking the user if they want to
    delete the selected item.
