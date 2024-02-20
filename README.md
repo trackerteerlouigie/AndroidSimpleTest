@@ -23,14 +23,7 @@ total of ***at least 80 points*** by completing these tasks successfully.
    delete the selected item.
    <br />c. If the user confirms, **remove** the item from the grid and update the display accordingly.
    
-5. **Implement Drag-and-Drop Reordering:** (26 points)
-   <br />a. Allow users to rearrange the items in the grid by **dragging and dropping** them to different
-   positions.
-   <br />b. When a user long-presses on an item, allow them to drag it to a **new position** within the
-   grid layout.
-   <br />c. **Update** the grid to reflect the new order of items after the user drops the item.
-
-6. **Propose and Implement a New Feature:** (Bonus points)
+5. **Propose and Implement a New Feature:** (Bonus points)
    <br />a. Bonus points will be awarded based on the **creativity**, **functionality**, and
 **implementation** of the proposed feature.
 
